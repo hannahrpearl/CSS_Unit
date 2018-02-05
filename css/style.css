@@ -1,0 +1,32 @@
+body {
+    background-color:darkmagenta;
+}
+
+
+h1 {
+    font-family: sans-serif;
+    color: crimson;
+}
+
+p {
+    font-family: fantasy;
+    color: blueviolet;
+}
+
+#header {
+    padding:20px;
+    border:1px;
+    margin:30px;
+    background-color:coral;
+}
+
+#bodycopy {
+    padding:5px;
+    border:2px red solid;
+    margin:10px;
+    background-color:cadetblue;
+}
+
+.orange {
+    color:orange;
+}
